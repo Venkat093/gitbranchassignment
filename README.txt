@@ -1,4 +1,4 @@
-git Assignements on branches dnkjvhrndj
+git Assignements on branches dnkjvhrndj  
 
 making changes after chekout to master branch and commiting in master branch
 
